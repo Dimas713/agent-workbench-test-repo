@@ -1,1 +1,3 @@
-# agent-workbench-test-repo
+# Agent Workbench Test Repo
+
+This is a test repository.
